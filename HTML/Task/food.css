@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.section-two__img,
+.section-three__img,
+.section-four__img,
+.section-five__img {
+    height: 350px;
+    width: 200px;
+    background-color: white;
+    color: black;
+}
+
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+    background-color: white;
+    color: black;
+    border: solid black 2px;
+    display: inline-block;
+}
+
+.section-six__table {
+
+    margin:0 auto;
+    
+
+}
+.section-one{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    margin-bottom: 20px;
+
+}
+.section-six{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin-top:20px ;
+    
+
+}
+.section-six__name, .section-six__age, .section-six__mail{
+    text-align: left;
+    
+}
+.section-six__but{
+    color: black;
+    background-color: yellow;
+    display: inline-block;
+    width: 400px;padding: 5px;
+}
+.container{
+    padding:80px;
+}
+.section-two__but, .section-three__but, .section-four__but, .section-five__but{
+    color: white;
+    background-color: black;
+    padding:5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
